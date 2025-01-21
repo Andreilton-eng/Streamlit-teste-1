@@ -1,2 +1,2 @@
 # Streamlit-teste-1
-Como criar um executável do Streamlit
+Como criar um deploy do Streamlit
